@@ -1,0 +1,18 @@
+{
+  "name": "clawd-buddy",
+  "version": "1.0.0",
+  "description": "A pixel Clawd above the prompt that acts out what the session is doing: thinking, coding, searching, compacting, idling.",
+  "author": {
+    "name": "Ilya Batko",
+    "url": "https://github.com/IliaBatko39"
+  },
+  "license": "MIT",
+  "keywords": [
+    "clawd",
+    "companion",
+    "pixel-art",
+    "function-hooks",
+    "desktop"
+  ],
+  "types": "./types/index.d.ts"
+}
